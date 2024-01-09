@@ -1,0 +1,14 @@
+C:\Users\Playerr1\Desktop\labpr1\labi2\bin\Debug\net8.0\labi2.exe
+C:\Users\Playerr1\Desktop\labpr1\labi2\bin\Debug\net8.0\labi2.deps.json
+C:\Users\Playerr1\Desktop\labpr1\labi2\bin\Debug\net8.0\labi2.runtimeconfig.json
+C:\Users\Playerr1\Desktop\labpr1\labi2\bin\Debug\net8.0\labi2.dll
+C:\Users\Playerr1\Desktop\labpr1\labi2\bin\Debug\net8.0\labi2.pdb
+C:\Users\Playerr1\Desktop\labpr1\labi2\obj\Debug\net8.0\labi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Playerr1\Desktop\labpr1\labi2\obj\Debug\net8.0\labi2.AssemblyInfoInputs.cache
+C:\Users\Playerr1\Desktop\labpr1\labi2\obj\Debug\net8.0\labi2.AssemblyInfo.cs
+C:\Users\Playerr1\Desktop\labpr1\labi2\obj\Debug\net8.0\labi2.csproj.CoreCompileInputs.cache
+C:\Users\Playerr1\Desktop\labpr1\labi2\obj\Debug\net8.0\labi2.dll
+C:\Users\Playerr1\Desktop\labpr1\labi2\obj\Debug\net8.0\refint\labi2.dll
+C:\Users\Playerr1\Desktop\labpr1\labi2\obj\Debug\net8.0\labi2.pdb
+C:\Users\Playerr1\Desktop\labpr1\labi2\obj\Debug\net8.0\labi2.genruntimeconfig.cache
+C:\Users\Playerr1\Desktop\labpr1\labi2\obj\Debug\net8.0\ref\labi2.dll
