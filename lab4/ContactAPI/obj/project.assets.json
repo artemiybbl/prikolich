@@ -2168,11 +2168,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Playerr1\\Desktop\\extra1\\ContactAPI\\ContactAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Playerr1\\Documents\\GitHub\\prikolich\\lab4\\ContactAPI\\ContactAPI.csproj",
       "projectName": "ContactAPI",
-      "projectPath": "C:\\Users\\Playerr1\\Desktop\\extra1\\ContactAPI\\ContactAPI.csproj",
+      "projectPath": "C:\\Users\\Playerr1\\Documents\\GitHub\\prikolich\\lab4\\ContactAPI\\ContactAPI.csproj",
       "packagesPath": "C:\\Users\\Playerr1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Playerr1\\Desktop\\extra1\\ContactAPI\\obj\\",
+      "outputPath": "C:\\Users\\Playerr1\\Documents\\GitHub\\prikolich\\lab4\\ContactAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Playerr1\\AppData\\Roaming\\NuGet\\NuGet.Config"

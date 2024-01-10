@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CqLNzJO33o1hFLdtYezytIJMka8iUxUW9275AT7PyqLiUi3kpuVA46Yfd10YsMLiNXfBhQndJyi8Q5zV+DK/ig==",
+  "dgSpecHash": "xLFTaZlHb6SaRi/Fp7whBJXb1AAjBIQ9KtskJl/8xfsSEopdb5DHQAXuTUXUQuJiEn1qzzf1aWUKkUXdbifdxg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Playerr1\\Desktop\\extra1\\ContactAPI\\ContactAPI.csproj",
+  "projectFilePath": "C:\\Users\\Playerr1\\Documents\\GitHub\\prikolich\\lab4\\ContactAPI\\ContactAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Playerr1\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Playerr1\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
